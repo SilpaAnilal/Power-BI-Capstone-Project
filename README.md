@@ -1,4 +1,4 @@
-# Power-BI-Capstone-Project
+# Financial Data Analysis
 Power BI capstone project work done by using Financial Dataset
 
 # CAPSTONE ASSIGNMENT 
